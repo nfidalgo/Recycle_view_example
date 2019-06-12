@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Recycle_view_example</string>
+    <string name="invalid_nombre">Introduce el nombre correctamente</string>
+    <string name="invalid_comentario">Introduce un comentario valido</string>
 </resources>
